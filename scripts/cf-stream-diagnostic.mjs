@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import "dotenv/config";
 
 const c = {
   green: (s) => `\x1b[32m${s}\x1b[0m`,
